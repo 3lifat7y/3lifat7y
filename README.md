@@ -1,8 +1,8 @@
-## Hi there 👋
+
 
 <div align="center">
-
-<h1>👋 علي فتحي | Ali Fathy</h1>
+## Hi there 👋
+<h1>👋 علي فتحي | Ali Fathy </h1>
 <h3>Full Stack .NET Developer 💻</h3>
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="450"/>
@@ -23,16 +23,17 @@
 
 ---
 
-### 👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
 
-- 🎓 Computer Science Student  
-- 💻 Full Stack Web Developer  
-- 🐍 Strong in Python & SQL Server  
-- 🚀 Interested in Web Development & AI  
-- 📈 Always learning new technologies  
-- ✅ Focused on clean and scalable code  
-
----
+<p>
+🎓 Computer Science Student <br>
+💻 .NET Full Stack Developer <br>
+🗄️ Strong in SQL Server & Database Design <br>
+🐍 Proficient in Python Programming <br>
+🚀 Interested in Web Development & AI <br>
+📈 Always learning new technologies <br>
+✅ Focused on clean, scalable, and secure code
+</p>
 
 ### 🌐 Connect With Me
 
