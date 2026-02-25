@@ -26,7 +26,7 @@
 <h2>👨‍💻 About Me</h2>
 
 <p>
-🎓 Computer Science Student <br>
+🎓 Artificial Intelligence Student <br>
 💻 .NET Full Stack Developer <br>
 🗄️ Strong in SQL Server & Database Design <br>
 🐍 Proficient in Python Programming <br>
