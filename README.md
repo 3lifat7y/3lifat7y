@@ -35,7 +35,7 @@
 ✅ Focused on clean, scalable, and secure code
 </p>
 
-### 🌐 Connect With Me
+<h2>🌐 Connect With Me</h2>
 
 <a href="https://www.linkedin.com/in/ali-fathy-elgazayrli" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Ali%20Fathy-blue?style=for-the-badge&logo=linkedin"/>
@@ -48,6 +48,10 @@
 <a href="https://www.instagram.com/3liii.i9/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-3liii.i9-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+
+<br><br>
+
+📧 <b>Email:</b> alifathy1155@gmail.com
 
 ---
 
