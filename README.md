@@ -1,16 +1,57 @@
 ## Hi there 👋
 
-<!--
-**3lifat7y/3lifat7y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<h1>👋 علي فتحي | Ali Fathy</h1>
+<h3>Full Stack .NET Developer 💻</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="450"/>
+
+---
+
+### 🛠️ Skills & Tools
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Computer Science Student  
+- 💻 Full Stack Web Developer  
+- 🐍 Strong in Python & SQL Server  
+- 🚀 Interested in Web Development & AI  
+- 📈 Always learning new technologies  
+- ✅ Focused on clean and scalable code  
+
+---
+
+### 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/ali-fathy-elgazayrli" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Ali%20Fathy-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.facebook.com/ali.fathy.344746" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-Ali%20Fathy-1877F2?style=for-the-badge&logo=facebook"/>
+</a>
+
+<a href="https://www.instagram.com/3liii.i9/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-3liii.i9-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+---
+
+### 🔥 Quote
+
+"Learn Every Day. Code With Passion. Build Your Future."
+
+</div>
