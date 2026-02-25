@@ -2,7 +2,7 @@
 
 <div align="center">
  Hi there 👋
-<h1>👋 علي فتحي | Ali Fathy </h1>
+<h1>👋 I am Ali Fathy El-Gazayrli </h1>
 <h3>Full Stack .NET Developer 💻</h3>
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="450"/>
